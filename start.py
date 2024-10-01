@@ -208,7 +208,7 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("프로그램 종료")
     finally:
-        detection_pause.clear()  # 媛먯? ?ㅻ젅??醫낅즺 ?좏샇
+        detection_pause.clear() 
         object_detection_thread.join()
         voice_recognition_thread.join()
 
