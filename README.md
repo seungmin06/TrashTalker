@@ -14,7 +14,7 @@
  
 
 ## 😃 팀원 소개
-|윤승민|이 빈|박유노|정찬혁|이지명|
+|윤승민 👑|이 빈|박유노|정찬혁|이지명|
 |------|---|---|---|---|
 |<a href="https://github.com/seungmin06">seungmin06</a>|<a href="https://github.com/LeeBhin">LeeBhin</a>|<a href="https://github.com/hia1234">hia1234</a>|<a href="https://github.com/Developer-Duck">Developer-Duck</a>|<a href="https://github.com/LZM08">LZM08</a>|
 
