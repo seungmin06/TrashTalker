@@ -20,8 +20,8 @@
 
 
 ## 🍀 개발 환경
-- RaspBerry pi : 하드웨어 구성 / 카메라 객체인식
-- Arduino : 하드웨어 구성 / 모터제어
+- RaspBerry pi 5 : 하드웨어 구성 / 카메라 객체인식
+- Arduino Uno : 하드웨어 구성 / 모터제어
 - Python : speech_recognition, gtts, openai, YOLO
   
 
