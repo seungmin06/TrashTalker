@@ -23,7 +23,7 @@
 - RaspBerry pi : 하드웨어 구성 / 카메라 객체인식
 - Arduino : 하드웨어 구성 / 모터제어
 - Python : speech_recognition, gtts, openai, YOLO
-- 
+  
 
 ### 개선 사항
 - 현재는 쓰레기 데이터가 부족하여 캔만 들어가며, 추후 쓰레기 데이터를 추가하여 다양한 쓰레기를 분류할 수 있도록 할 예정입니다.
